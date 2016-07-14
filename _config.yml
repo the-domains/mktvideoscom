@@ -1,14 +1,14 @@
-layout_spectrum: 0.015951782232150435
-typography_spectrum: 0.5010170897003263
+layout_spectrum: 0.3805894774850458
+typography_spectrum: 0.09745562518946826
 color:
-  brandStrength: 0.16204149136319757
-  lightness: 0.5942973133642226
-  saturation: 0.9861349475104362
-  rhythmicContrast: 0.08308401727117598
+  brandStrength: 0.09908372606150806
+  lightness: 0.35478256992064416
+  saturation: 0.7486107042059302
+  rhythmicContrast: 0.28693594108335674
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: MKTvideos.com
