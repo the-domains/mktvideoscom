@@ -2,16 +2,30 @@
     <channel>
         <title><![CDATA[MKTvideos.com]]></title>
         <description><![CDATA[MKTvideos.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mktvideos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 08:29:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 08:29:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mktvideos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FUTURIZZ 4 cambios]]></title>
-            <description><![CDATA[<article><h1>FUTURIZZ 4 cambios</h1><p>Uploaded by Marketin.TV on 2016-07-13.</p></article>]]></description>
+            <description><![CDATA[<article><h1>FUTURIZZ 4 cambios</h1><p>Uploaded by Marketin.TV on 2016-07-13.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3efc117d994ec1d461e198f954ecbd26/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FtVAvvcLo9nc%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=tVAvvcLo9nc</link>
             <guid isPermaLink="false">fd454a32-959e-4878-8f6f-52114861b175</guid>
             <pubDate>Thu, 14 Jul 2016 08:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FUTURIZZ 2 cambios]]></title>
+            <description><![CDATA[<article><h1>FUTURIZZ 2 cambios</h1><p>Uploaded by Marketin.TV on 2016-07-13.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5605033b3135453512801809d14e5cf0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FylAYo4InQ_g%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ylAYo4InQ_g</link>
+            <guid isPermaLink="false">44dd0e85-ec2d-4bab-904a-35e211c755c3</guid>
+            <pubDate>Thu, 14 Jul 2016 08:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Los Trucos del Marketing Online de Juan Merodio para 2015]]></title>
+            <description><![CDATA[<article><h1>Los Trucos del Marketing Online de Juan Merodio para 2015</h1><p>Entrevista a Juan Merodio donde aprendimos muchas cosas sobre Marketing Online y Social Media. http://marketin.TV http://juanMerodio.com Gracias a La Nicoletta de Azca por cedernos el espacio</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=HRWvgPX3dwQ</link>
+            <guid isPermaLink="false">cdb79acd-7bc5-488b-acf4-bc281b38cd24</guid>
+            <pubDate>Thu, 14 Jul 2016 08:28:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
