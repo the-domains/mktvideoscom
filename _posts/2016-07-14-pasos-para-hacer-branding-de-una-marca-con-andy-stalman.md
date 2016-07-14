@@ -17,10 +17,10 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=QMRGi7Ex_e4'
 title: 'Pasos para hacer Branding de una marca, con Andy Stalman'
-datePublished: '2016-07-14T11:20:10.726Z'
-dateModified: '2016-07-14T11:20:10.060Z'
+datePublished: '2016-07-14T11:20:43.580Z'
+dateModified: '2016-07-14T11:20:42.876Z'
 sourcePath: _posts/2016-07-14-pasos-para-hacer-branding-de-una-marca-con-andy-stalman.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
