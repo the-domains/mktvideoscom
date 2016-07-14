@@ -12,3 +12,7 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: MKTvideos.com
+author:
+  name: Bruno
+  email: bruno@aulacm.com
+  url: 'http://aulacm.com'
