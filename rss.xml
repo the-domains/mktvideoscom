@@ -4,7 +4,7 @@
         <description><![CDATA[MKTvideos.com]]></description>
         <link>http://mktvideos.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 13:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 13:37:58 GMT</lastBuildDate>
         <atom:link href="http://mktvideos.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[¿Para qué sirve realmente el Marketing Online? - Isra García]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=-NG0wfDs3xQ</link>
             <guid isPermaLink="false">fcc2541a-7023-47b0-9be3-092da93b0a97</guid>
             <pubDate>Thu, 14 Jul 2016 11:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El dinero no está en la lista - Maïder Tomasena]]></title>
+            <description><![CDATA[<article><h1>El dinero no está en la lista - Maïder Tomasena</h1><p>Maider nos habla de la importancia de los suscriptores de correo o de una newsletter y los mejores consejos para que abran tus correos y respondan a tus estrategias.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/39725b1de59b7dcd12d620bf790eadfc/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Ftl9zmqu-HW4%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=tl9zmqu-HW4</link>
+            <guid isPermaLink="false">ddd401c2-4e68-42ac-9427-e1e68cde47a5</guid>
+            <pubDate>Sat, 16 Jul 2016 13:37:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Expertos opinan: "Claves del éxito en el Marketing Online y Publicidad Digital"]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=QMRGi7Ex_e4</link>
             <guid isPermaLink="false">d232881e-77ca-4c0f-a9dd-8d8d7134e106</guid>
             <pubDate>Thu, 14 Jul 2016 11:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Marketing de Contenidos para empresas" con Lucas García]]></title>
-            <description><![CDATA[<article><h1>"Marketing de Contenidos para empresas" con Lucas García</h1><p>Lucas nos da consejos para aplicar Marketing de Contenidos para empresas y marcas. Cómo planifican en una agencia de Marketing Online la estrategia digital: SEO, blogs, Social Media... http://marketin.TV http://aulaCM.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1731efd9dadd168b67f63044003935ce/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fj0nYZLLsByM%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=j0nYZLLsByM</link>
-            <guid isPermaLink="false">fbfc00ef-1fa2-4292-a1e8-ffeee1229c34</guid>
-            <pubDate>Thu, 14 Jul 2016 10:15:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
