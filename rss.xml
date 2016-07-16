@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[MKTvideos.com]]></title>
         <description><![CDATA[MKTvideos.com]]></description>
-        <link>https://thegrid.ai/mktvideos/</link>
+        <link>http://mktvideos.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 11:24:06 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/mktvideos/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 13:37:11 GMT</lastBuildDate>
+        <atom:link href="http://mktvideos.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[¿Para qué sirve realmente el Marketing Online? - Isra García]]></title>
             <description><![CDATA[<article><h1>¿Para qué sirve realmente el Marketing Online? - Isra García</h1><p>Isra García trata de explicarnos por qué a muchas empresas no les funciona su Marketing Online. Nos cuenta cómo entiende él el Marketing y cómo piensa que deberían usarlo las empresas</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bec8a824dff52bc18ece07fd976551b7/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F-NG0wfDs3xQ%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=-NG0wfDs3xQ</link>
             <guid isPermaLink="false">fcc2541a-7023-47b0-9be3-092da93b0a97</guid>
             <pubDate>Thu, 14 Jul 2016 11:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El content marketing desde el punto de vista de Arturo Marimón]]></title>
+            <description><![CDATA[<article><h1>El content marketing desde el punto de vista de Arturo Marimón</h1><p>Arturo Marimón nos explica su visión de Google y los contenidos, el plan de contenidos, la estrategia, los KPIs... "El contenido lo es todo".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/de6ae87c555913be16e52eb1a757cd0e/croprotate.jpg?cropheight=272&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F-ZKDds0Z0nc%2Fhqdefault.jpg&x=0&y=48"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=-ZKDds0Z0nc</link>
+            <guid isPermaLink="false">f251b107-db63-4190-b09e-1c1d1377a1c7</guid>
+            <pubDate>Sat, 16 Jul 2016 13:37:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Expertos opinan: "El Futuro del Marketing Digital y la publicidad online"]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=pgZwtz7Wl8w</link>
             <guid isPermaLink="false">40ede526-c76c-467b-9314-b2d00f888c64</guid>
             <pubDate>Thu, 14 Jul 2016 08:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FUTURIZZ 3 cambios]]></title>
-            <description><![CDATA[<article><h1>FUTURIZZ 3 cambios</h1><p>Uploaded by Marketin.TV on 2016-07-13.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3864a2f0616548b4d73e121b7c124093/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FMAfkwRRuWJ8%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=MAfkwRRuWJ8</link>
-            <guid isPermaLink="false">4a8af5cf-adaf-46ab-8418-c57b97c40f5d</guid>
-            <pubDate>Thu, 14 Jul 2016 08:28:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
