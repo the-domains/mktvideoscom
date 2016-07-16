@@ -4,7 +4,7 @@
         <description><![CDATA[MKTvideos.com]]></description>
         <link>http://mktvideos.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 13:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 13:37:57 GMT</lastBuildDate>
         <atom:link href="http://mktvideos.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[¿Para qué sirve realmente el Marketing Online? - Isra García]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=-NG0wfDs3xQ</link>
             <guid isPermaLink="false">fcc2541a-7023-47b0-9be3-092da93b0a97</guid>
             <pubDate>Thu, 14 Jul 2016 11:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SEO en tiempos revueltos - Luis M. Villanueva]]></title>
+            <description><![CDATA[<article><h1>SEO en tiempos revueltos - Luis M. Villanueva</h1><p>Son tiempos revueltos en el mundo del SEO y el posicionamiento en buscadores. Son tiempos revueltos, ya que cada vez que hay un nuevo cambio algorítmico hay que adaptarse. Son tiempos en los que el SEO ya no es un gran desconocido y se encuentra mucha información en la red.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3b1427b62e636570745aedc092bd655/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FgcCQNmbLX5U%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=gcCQNmbLX5U</link>
+            <guid isPermaLink="false">5163c274-7351-4136-8c0f-8cfb37a03ba9</guid>
+            <pubDate>Sat, 16 Jul 2016 13:37:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[El ecommerce ha muerto - Javier Echaleku]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=tVAvvcLo9nc</link>
             <guid isPermaLink="false">fd454a32-959e-4878-8f6f-52114861b175</guid>
             <pubDate>Thu, 14 Jul 2016 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FUTURIZZ 2 cambios]]></title>
-            <description><![CDATA[<article><h1>FUTURIZZ 2 cambios</h1><p>Uploaded by Marketin.TV on 2016-07-13.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5605033b3135453512801809d14e5cf0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FylAYo4InQ_g%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ylAYo4InQ_g</link>
-            <guid isPermaLink="false">44dd0e85-ec2d-4bab-904a-35e211c755c3</guid>
-            <pubDate>Thu, 14 Jul 2016 08:29:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
