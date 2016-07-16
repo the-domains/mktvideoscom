@@ -4,7 +4,7 @@
         <description><![CDATA[MKTvideos.com]]></description>
         <link>http://mktvideos.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 13:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 13:37:55 GMT</lastBuildDate>
         <atom:link href="http://mktvideos.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[¿Para qué sirve realmente el Marketing Online? - Isra García]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=-NG0wfDs3xQ</link>
             <guid isPermaLink="false">fcc2541a-7023-47b0-9be3-092da93b0a97</guid>
             <pubDate>Thu, 14 Jul 2016 11:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El ecommerce ha muerto - Javier Echaleku]]></title>
+            <description><![CDATA[<article><h1>El ecommerce ha muerto - Javier Echaleku</h1><p>Javier nos habla de como hacer marketing para tiendas online y ecommerces. Los tiempos están cambiando</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3acc72b04075385f8b3d9e9f8daf21ef/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F08ez9ot2IWQ%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=08ez9ot2IWQ</link>
+            <guid isPermaLink="false">9b0197ef-2fc0-40d9-baae-a45ca410a460</guid>
+            <pubDate>Sat, 16 Jul 2016 13:37:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[El content marketing desde el punto de vista de Arturo Marimón]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=ylAYo4InQ_g</link>
             <guid isPermaLink="false">44dd0e85-ec2d-4bab-904a-35e211c755c3</guid>
             <pubDate>Thu, 14 Jul 2016 08:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FUTURIZZ 5 cambios]]></title>
-            <description><![CDATA[<article><h1>FUTURIZZ 5 cambios</h1><p>Uploaded by Marketin.TV on 2016-07-13.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/08e671a015da143b1f3ef4cb03ee805e/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FpgZwtz7Wl8w%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=pgZwtz7Wl8w</link>
-            <guid isPermaLink="false">40ede526-c76c-467b-9314-b2d00f888c64</guid>
-            <pubDate>Thu, 14 Jul 2016 08:28:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
